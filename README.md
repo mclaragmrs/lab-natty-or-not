@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook mudanças climáticas ;)
 
 ## 📒 Descrição
 Este projeto é um e-book que explora as mudanças climáticas, abordando suas causas, impactos e possíveis soluções. Destinado a um público amplo, o e-book visa aumentar a conscientização sobre o aquecimento global, as alterações nos padrões climáticos e os efeitos devastadores dos eventos extremos. A obra combina ciência, dados históricos e recomendações práticas para adaptação e mitigação.
