@@ -1,43 +1,19 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto é um e-book que explora as mudanças climáticas, abordando suas causas, impactos e possíveis soluções. Destinado a um público amplo, o e-book visa aumentar a conscientização sobre o aquecimento global, as alterações nos padrões climáticos e os efeitos devastadores dos eventos extremos. A obra combina ciência, dados históricos e recomendações práticas para adaptação e mitigação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT: para a elaboração de textos informativos, resumo de conceitos científicos e revisões de conteúdo.
+DALL-E: para gerar ilustrações que complementam as explicações sobre os fenômenos climáticos e impactos visuais das mudanças.
+Ferramentas de edição de texto como Microsoft Word ou Google Docs para estruturação e formatação do conteúdo.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+O processo de criação do e-book começou com uma revisão bibliográfica sobre os principais aspectos das mudanças climáticas, incluindo causas, impactos e estratégias de adaptação e mitigação. Em seguida, conteúdos foram gerados em blocos temáticos, utilizando a IA para organizar, simplificar e personalizar a linguagem para diferentes faixas etárias e níveis de conhecimento. Após a criação textual, foram selecionadas ilustrações e gráficos que facilitam o entendimento visual. Finalmente, o conteúdo foi revisado e estruturado para garantir uma narrativa envolvente e acessível.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book resultante é uma obra digital interativa, que combina explicações detalhadas e visuais informativos para facilitar a compreensão do tema. Ele oferece uma introdução sólida às mudanças climáticas e sugere ações concretas que leitores de diferentes idades podem adotar. O material está estruturado em capítulos, cada um com uma seção de perguntas e respostas, gráficos e ilustrações, promovendo uma leitura didática e engajante.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
